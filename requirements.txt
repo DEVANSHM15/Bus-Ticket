@@ -134,5 +134,5 @@ websocket-client==1.7.0
 Werkzeug==3.0.2
 widgetsnbextension==4.0.9
 wordcloud==1.9.3
-package-name==version; python_version >= "3.7" and python_version < "3.11"
+Python==3.11.0
 
